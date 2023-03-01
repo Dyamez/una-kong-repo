@@ -1,0 +1,18 @@
+body {
+    background-color: green;
+    line-height: 1.5em;
+    border-style: solid;
+}
+h1 {
+    color: yellow;
+    background: darkgreen;
+    border-style: dotted;
+
+}
+
+li {
+    background-color: aqua;
+}
+.myfav {
+    background-color: blue;
+}
