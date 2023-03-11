@@ -1,0 +1,30 @@
+/* add code here to make your image 300px square */
+
+img {
+    width: 300px;
+  }
+  
+  
+
+/* add code here to change the color and font family of your name/title */
+/*
+h1 {
+font-family: "Papyrus", 'Times New Roman', Times, serif
+}
+*/
+h1 {
+    color: violet;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    
+}
+li {
+    color:brown
+}
+
+ol {
+    color: red;
+    
+}
+
+/* Bonus: change the color of your list elements */
