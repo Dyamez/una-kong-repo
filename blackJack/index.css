@@ -1,0 +1,27 @@
+h1 {
+    color: goldenrod;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+    font-size: x-large;
+    background-image: url("grass1.png");
+    background-size: cover;
+    color: red;
+    font-weight: bold;
+    
+}
+
+button {
+    text-decoration-color: #016f32;
+    width: 150px;
+    background: goldenrod
+
+}
+
+
+#messege-el {
+    font-style: italic;
+    
+    
+}
